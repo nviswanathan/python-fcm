@@ -1,5 +1,5 @@
 
-from firebase_messaging import FirebaseMessaging
+from .firebase_messaging import FirebaseMessaging
 
 def main():
     """Entry point for the application script"""
